@@ -1,0 +1,17 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Environment
+*.log
+.env
+.env.local
+
+# Editor directories
+.vscode/
+.idea/
+
+# Local raw source images & Windows local server script
+pictures/
+serve.ps1
